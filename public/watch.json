@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Rolex Watch",
+      "description": "Classic men's Rolex from the 1970s. Excellent condition.",
+      "currentBidPrice": 1250.00,
+      "timeLeft": "2h 30m",
+      "bidsCount": 15,
+      "image": "https://ibb.co.com/7N2gGtD2"
+    },
+    {
+      "id": 2,
+      "title": "Antique Wooden Chair",
+      "description": "Handcrafted Victorian-style chair. Rare piece.",
+      "currentBidPrice": 320.00,
+      "timeLeft": "5h 15m",
+      "bidsCount": 8,
+      "image": "https://example.com/images/chair.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Apple MacBook Pro 2021",
+      "description": "M1 Pro chip, 16GB RAM, 512GB SSD. Like new.",
+      "currentBidPrice": 1750.00,
+      "timeLeft": "1d 3h",
+      "bidsCount": 24,
+      "image": "https://example.com/images/macbook.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Signed Cricket Bat - Virat Kohli",
+      "description": "Original bat signed by Virat Kohli after 2023 World Cup.",
+      "currentBidPrice": 540.00,
+      "timeLeft": "8h 45m",
+      "bidsCount": 11,
+      "image": "https://example.com/images/cricket_bat.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Canon EOS R6 Camera",
+      "description": "Mirrorless camera with 24-105mm lens. Slightly used.",
+      "currentBidPrice": 1320.00,
+      "timeLeft": "3d 2h",
+      "bidsCount": 18,
+      "image": "https://example.com/images/canon.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Xbox Series X Console",
+      "description": "Latest generation Xbox console, includes one controller and original packaging.",
+      "currentBidPrice": 499.99,
+      "timeLeft": "6h 50m",
+      "bidsCount": 9,
+      "image": "https://example.com/images/xbox.jpg"
+    }
+  ]
+  
